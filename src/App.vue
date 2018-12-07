@@ -12,7 +12,7 @@ export default {
 <style>
 @font-face {  
   font-family: 'tianzhen';  
-  src: url('./assets/yyc.ttf');  
+  /* src: url('./assets/yyc.ttf');   */
 }
 </style>
 
